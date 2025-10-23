@@ -1,0 +1,2 @@
+# bilgisayarm-hendisliginegiris
+Ogrenci bilgileri 
