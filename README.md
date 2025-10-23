@@ -1,5 +1,5 @@
 # bilgisayarm-hendisliginegiris
 Ogrenci bilgileri 
 
-nisanur özer
+Nisanur Özer
 16008125082
